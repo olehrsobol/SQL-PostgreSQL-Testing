@@ -6,7 +6,7 @@ The goal was to practice SQL querying and validate data integrity using real-wor
 
 > <strong>Included Files:</strong>
 <ul>
-    <li><strong><a href="https://drive.google.com/file/d/1kzOvvsq3eTbMMAevooLJaEB7TniScanO/view?usp=sharing">queries 30</a></strong></li>
+    <li><strong><a href="https://drive.google.com/file/d/1kzOvvsq3eTbMMAevooLJaEB7TniScanO/view?usp=sharing">30 queries</a></strong></li>
     Contains 30 SQL queries covering:
     <ul>
         <li>SELECT statements</li>
